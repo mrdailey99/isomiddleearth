@@ -140,3 +140,13 @@ To load a collection directly in the editor:
 ## Contributing
 
 Issues and pull requests are welcome: [hasanharman/isomiddleearth](https://github.com/hasanharman/isomiddleearth)
+
+## Star History
+
+<a href="https://www.star-history.com/?repos=hasanharman%2Fisomiddleearth&type=timeline&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=hasanharman/isomiddleearth&type=timeline&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=hasanharman/isomiddleearth&type=timeline&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=hasanharman/isomiddleearth&type=timeline&legend=top-left" />
+ </picture>
+</a>
